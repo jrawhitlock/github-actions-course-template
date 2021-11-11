@@ -1,4 +1,4 @@
-name: GIPHY generator edit
+name: GIPHY generator edit test
 
 on:
   pull_request:
