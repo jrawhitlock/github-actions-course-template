@@ -1,9 +1,9 @@
-name: GIPHY generator test
+name: GIPHY generator
 
 on:
-  issues:
-    types: [opened, edited]
   pull_request:
+    types: [opened, edited]
+  issues:
     types: [opened, edited]
   issue_comment:
     types: [created, edited]
